@@ -20,14 +20,25 @@ A bunch of these files are one time use scripts, but I included them on this rep
 ### [scripts](scripts)
   Commonly used scripts, mostly downsampling and reading in data
 
-#### [channel_response.m](channel_response.m) - similar to fft_problem directory
-#### [check_downsampling.m](check_downsampling.m) - One time use file
-#### [mainDetect.m](mainDetect.m) - Brian's main detection
-#### [mainDetect_once.m](mainDetect_once.m) - Brians main detection
-#### [mainLateral.m](mainLateral.m) - Brians main lateral
-#### [mainLateralBob.m](mainLateralBob.m) - My main lateral, used to generate stuff for radarcon
-#### [mainLateral_all.m](mainLateral_all.m) - Brian's stuff, not sure, check his documentation
-#### [main_angle.m](main_angle.m) - My main angle detection file, this file used only a single h0 as opposed to the multiple h0s I've been using recently in the scene detection file
-#### [main_scene_angle.m](main_scene_angle.m) - Rework of main_angle.m to incorporate multiple h0s
-#### [test_new_signal.m](test_new_signal.m) - One time use
-#### [test_tx_signals.m](test_tx_signals.m) - One time use
+#### [channel_response.m](channel_response.m)
+  similar to fft_problem directory
+#### [check_downsampling.m](check_downsampling.m)
+  One time use file
+#### [mainDetect.m](mainDetect.m)
+  Brian's main detection
+#### [mainDetect_once.m](mainDetect_once.m)
+  Brians main detection
+#### [mainLateral.m](mainLateral.m)
+  Brians main lateral
+#### [mainLateralBob.m](mainLateralBob.m) 
+  My main lateral, used to generate stuff for radarcon
+#### [mainLateral_all.m](mainLateral_all.m)
+  Brian's stuff, not sure, check his documentation
+#### [main_angle.m](main_angle.m)
+  My main angle detection file, this file used only a single h0 as opposed to the multiple h0s I've been using recently in the scene detection file
+#### [main_scene_angle.m](main_scene_angle.m)
+  Rework of main_angle.m to incorporate multiple h0s
+#### [test_new_signal.m](test_new_signal.m)
+  One time use
+#### [test_tx_signals.m](test_tx_signals.m)
+  One time use
